@@ -1,4 +1,4 @@
-from engine import Value
+from .engine import Value
 
 
 def binary_cross_entropy(input: Value, target: int):
